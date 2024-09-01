@@ -36,6 +36,4 @@ Visit http://127.0.0.1:8000/ in your web browser to use the application.
 **Contributing**
 Contributions are welcome. Please fork this repository and submit a pull request for review.
 
-**Screenshots**
-
 
